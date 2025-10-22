@@ -1,2 +1,63 @@
-# linux-challenges
-Desafios práticos de Linux e Bash
+# 🐧 Desafios de Linux  
+Bem-vindo(a)! 👋 Este repositório reúne uma coleção de desafios práticos de **Linux**, organizados por nível de dificuldade e aplicabilidade. A proposta é oferecer uma jornada progressiva para quem deseja dominar o sistema operacional de forma prática, divertida e desafiadora.  
+
+---
+
+## 📂 Sumário dos Desafios  
+Acesse a lista completa de desafios e soluções:  
+
+- [Ver Sumário Completo](./SUMARIO.md)
+
+---
+
+## 📌 Objetivo  
+Este projeto tem como finalidade:  
+
+- Fixar os conceitos fundamentais e avançados do Linux  
+- Praticar comandos, scripts e automação no terminal  
+- Desenvolver raciocínio lógico e atenção a detalhes  
+- Criar uma base sólida para aplicações reais em administração de sistemas, programação, segurança e muito mais  
+
+---
+
+## 🧪 Conteúdo Abordado  
+Os desafios estão divididos em três níveis:  
+
+| Nível        | Exemplos de Tópicos |
+|--------------|----------------------|
+| **Iniciante**     | Navegação no sistema de arquivos, permissões básicas, manipulação de arquivos e diretórios |
+| **Intermediário** | Processos, variáveis de ambiente, pipes, redirecionamentos, gerenciamento de pacotes |
+| **Avançado**      | Shell scripting, automação, expressões regulares no `grep/sed/awk`, segurança e performance |
+
+Cada desafio é numerado e descrito com exemplos de entrada e requisitos.  
+
+---
+
+## 💡 Sugestão  
+Para aproveitar ao máximo:  
+
+- Tente resolver cada desafio por conta própria antes de consultar qualquer solução.  
+- O verdadeiro domínio vem da prática e da experimentação! 😉  
+
+---
+
+## 🤖 Créditos  
+Este projeto foi idealizado por **Diogo Luxa** e desenvolvido com o apoio de uma IA (Microsoft Copilot), que gerou diversos desafios com foco em aprendizado progressivo e aplicabilidade prática.  
+
+Todos os desafios foram criados do zero, com o objetivo de oferecer uma abordagem moderna e acessível ao estudo do Linux.  
+
+Apesar de terem sido criados com o suporte da IA, as soluções refletem a minha forma pessoal de resolver os problemas, com foco em clareza, lógica e estilo próprio.  
+
+---
+
+## 📣 Filosofia do Projeto  
+>⚠️ **Observação Importante**  
+
+Defendo a ideia de que inteligências artificiais devem ser usadas como ferramentas colaborativas, e não como solucionadoras absolutas de problemas.  
+O objetivo deste projeto é estimular o raciocínio próprio, a prática ativa e o desenvolvimento de autonomia na resolução de desafios com Linux.  
+
+Use a IA como aliada, não como atalho. Aprender exige envolvimento! 💪  
+
+---
+
+Fique à vontade para contribuir, sugerir melhorias ou compartilhar com quem estiver aprendendo Linux!  
