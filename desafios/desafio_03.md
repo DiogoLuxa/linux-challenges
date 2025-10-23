@@ -1,4 +1,4 @@
-# 🐚 Desafio 02 – (em breve)  
+# 🐧 Desafio – (em breve)  
 
 - [Voltar ao Sumário](../SUMARIO.md)
 
