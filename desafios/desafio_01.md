@@ -1,4 +1,4 @@
-# 🐚 Desafio 01 – Navegação no sistema de arquivos (`pwd`, `ls`, `cd`)  
+# 🐧 Desafio 01 – Navegação no sistema de arquivos (`pwd`, `ls`, `cd`)  
 
 [Voltar ao Sumário](../SUMARIO.md)
 
@@ -46,7 +46,5 @@ arquivo1.txt  arquivo2.pdf
 ```
 
 >ℹ️ Esse exercício é ideal para quem está começando no terminal e quer se familiarizar com os comandos básicos de navegação.  
-
----
 
 - [Próximo desafio → Desafio 02](./desafio_02.md)
