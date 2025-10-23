@@ -9,6 +9,7 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | Nº  | Título do Desafio | Link |
 |-----|-------------------|------|
 | 01  | Navegação no sistema de arquivos (`pwd`, `ls`, `cd`) |  [Desafio 01](./desafios/desafio_01.md) |
+| 02 | Criação e remoção de arquivos e diretórios (`touch`, `mkdir`, `rm`) | [Desafio 02](./desafios/desafio_02.md) |
 
 
 ---
